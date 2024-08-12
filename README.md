@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td style="width: 35%;">
-            <img src="img/Legend of the Northern Blade Manhwa Wallpaper.jfif" alt="Geto" style="width: 100%; border: none;" />
+            <img src="img/download.jfif" alt="Geto" style="width: 100%; border: none;" />
         </td>
         <td style="width: 50%; vertical-align: top;">
             <p style="font-family: monospace; font-size: 16px;">
