@@ -30,10 +30,10 @@
         │ └── python.py
         │
         └── /learning
-        ├── SQL
-        ├── java
-        ├── react
-        └── C
+          ├── SQL
+          ├── java
+          ├── react
+          └── C
 
 </tr>
 </table>
