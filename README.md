@@ -12,28 +12,28 @@
                       
 </p>
 
-            /About_Me
-            │
-            ├── /bio
-            │ ├── he/him - brazilian - (pt/br + english)
-            │ ├── /electronics_technician
-            │ ├── /computer science undergraduated
-            │
-            ├── /os
-            │ └── /windows
-            │ └── Windows 10
-            │
-            ├── /languages
-            │ ├── css
-            │ ├── html
-            │ ├── JavaScript
-            │ └── python.py
-            │
-            └── /learning
-            ├── SQL
-            ├── java
-            ├── react
-            └── C
+  /About_Me
+  │
+  ├── /bio
+  │ ├── he/him - brazilian - (pt/br + english)
+  │ ├── /electronics_technician
+  │ ├── /computer science undergraduated
+  │
+  ├── /os
+  │ └── /windows
+  │ └── Windows 10
+  │
+  ├── /languages
+  │ ├── css
+  │ ├── html
+  │ ├── JavaScript
+  │ └── python.py
+  │
+  └── /learning
+  ├── SQL
+  ├── java
+  ├── react
+  └── C
 
 </tr>
 </table>
