@@ -34,5 +34,5 @@
             ├── react
             └── C
 
-    </tr>
+</tr>
 </table>
